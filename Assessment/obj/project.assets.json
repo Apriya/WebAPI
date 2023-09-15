@@ -4220,11 +4220,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Mobile Programming\\source\\repos\\Assessment\\Assessment\\Assessment.csproj",
+      "projectUniqueName": "D:\\tttt\\WebAPI\\Assessment\\Assessment.csproj",
       "projectName": "Assessment",
-      "projectPath": "C:\\Users\\Mobile Programming\\source\\repos\\Assessment\\Assessment\\Assessment.csproj",
+      "projectPath": "D:\\tttt\\WebAPI\\Assessment\\Assessment.csproj",
       "packagesPath": "C:\\Users\\Mobile Programming\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Mobile Programming\\source\\repos\\Assessment\\Assessment\\obj\\",
+      "outputPath": "D:\\tttt\\WebAPI\\Assessment\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Mobile Programming\\AppData\\Roaming\\NuGet\\NuGet.Config",
